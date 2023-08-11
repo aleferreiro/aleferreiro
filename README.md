@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleferreiro
 - 👀 I’m interested in using programming tools to conserve Biodiversity
-- 🌱 I’m currently learning R programming to perform biodiversity data analysis including ecological, genetic and genomics information of species. 
-- 💞️ I’m looking to collaborate on conservation projects that involves genetics/genomics and geographic analysis. 
+- 🌱 I apply programming skills to perform biodiversity data analysis of ecological, genetic and genomics features of species. 
+- 💞️ I’m looking to collaborate on conservation projects that involve genetics/genomics and geographic analysis. 
 - 📫 You can see more about me in my [webpage](https://aleferreiro.netlify.app/) 
 
 <!---
